@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+<fullyQualifiedTypeName name="com.example.demo.socket.SocketApplication"/>
+<fullyQualifiedTypeName name="com.corundumstudio.socketio.Configuration"/>
+<fullyQualifiedTypeName name="com.corundumstudio.socketio.Transport"/>
+<fullyQualifiedTypeName name="com.corundumstudio.socketio.SocketIOServer"/>
+<fullyQualifiedTypeName name="com.corundumstudio.socketio.AckCallback"/>
+<fullyQualifiedTypeName name="com.corundumstudio.socketio.AckRequest"/>
+<fullyQualifiedTypeName name="org.json.simple.JSONObject"/>
+</qualifiedTypeNameHistroy>

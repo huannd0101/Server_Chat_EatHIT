@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Huan\Desktop\TestSocket\SERVER\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2160999633.index
+3389191892.index
+1341222356.index
+2931798624.index
+734904012.index
